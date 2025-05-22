@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Rixon, aunque me dicen chillin
 
-<!--
-**rixon33/rixon33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Me gusta la **ciberseguridad** y el **desarrollo web**.  
+🛠️ Actualmente desarrollando aplicaciones Web con React y scripts en Python relacionados con la ciberseguridad.
+📚 Me gusta aprender creando y compartiendo mis proyectos.  
+🎥 También genero contenido en redes mostrando mi camino tech.
 
-Here are some ideas to get you started:
+## 🚀 Últimos proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 [user-enumeration-form](https://github.com/rixon33/user-enumeration-form): Fuerza bruta inteligente para descubrir usuarios válidos.
+- 💻 Portfolio web personal (en progreso)
+
+## 📌 Tecnologías que manejo
+
+- **Lenguajes**: Python, JavaScript, React, Tailwind CSS, Django
+- **Actualmente aprendiendo**: Ciberseguridad, redes y Astro.
+
+## 📫 Contacto
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rixon-huaman-8b2058205/)
+- 📧 Email: rixoncel@gmail.com
