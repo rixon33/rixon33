@@ -29,7 +29,6 @@
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/><br>Tailwind</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/><br>Python</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="30"/><br>Django</td>
-    <td align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/security-shield.png" width="30"/><br>Cybersecurity</td>
   </tr>
 </table>
 
