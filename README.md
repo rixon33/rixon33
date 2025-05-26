@@ -1,7 +1,9 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1db8fc60-5eb8-4a34-b130-25673fe38048" alt="Banner Rixon" />
+  <img src="https://github.com/user-attachments/assets/d4a71ddd-f58c-4c18-8c33-05d40bc3163f" alt="Banner Rixon" />
 </p>
+
+
 
 ### 👋 ¡Bienvenido! Soy Rixon  
 **Frontend Developer & Cybersecurity**
