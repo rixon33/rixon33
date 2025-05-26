@@ -1,19 +1,18 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2279480d-bfd7-4e02-9e17-2fa8b9822fb0" alt="Banner Rixon" />
+  <img src="https://github.com/user-attachments/assets/ced03420-73b9-483d-9c3f-62263b0b5135" alt="Banner Rixon" />
 </p>
 
 
-
-### 👋 ¡Hola! Soy Rixon  
+### 👋 ¡Bienvenido! Soy Rixon  
 **Frontend Developer & Cybersecurity**
 
-🎯 Apasionado por crear interfaces modernas y explorar vulnerabilidades.  
-🧠 Actualmente trabajando con React y scripts en Python para automatizar tareas de hacking ético.
+🎯 Me gusta desarrollar aplicaciones web, y explorar vulnerabilidades.  
+🧠 Actualmente trabajando con React y tailwind.
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Ultimos Proyectos
 
 - 🔐 [**User Enumeration Form**](https://github.com/rixon33/user-enumeration-form): Herramienta para descubrir usuarios válidos mediante fuerza bruta inteligente.
 - 🌐 [**Portfolio Personal**](https://github.com/rixon33/portfolio) *(en progreso)*
