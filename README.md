@@ -1,7 +1,8 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1db8fc60-5eb8-4a34-b130-25673fe38048" alt="Banner Rixon" />
+  <img src="https://github.com/user-attachments/assets/08bb8362-b742-49af-8514-849e744ff6dc" alt="Banner Rixon" />
 </p>
+
 
 
 ### 👋 ¡Bienvenido! Soy Rixon  
