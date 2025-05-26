@@ -1,9 +1,10 @@
 <!-- Banner principal con tu nombre y especialidades -->
-<p align="center">
-  <img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-d8d4-6230-8f6c-0f6cb933726e/raw?se=2025-05-26T10%3A45%3A03Z&sp=r&sv=2024-08-04&sr=b&scid=8e3003b4-677f-5c33-8a40-5d0405401369&skoid=ea1de0bc-0467-43d6-873a-9a5cf0a9f835&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-26T09%3A14%3A04Z&ske=2025-05-27T09%3A14%3A04Z&sks=b&skv=2024-08-04&sig=hnUXKSY296Ia5kEsoXO%2B1UmkSJjCE1QJ2HIpaPIM6tI%3D](https://sdmntprwestus.oaiusercontent.com/files/00000000-3a38-6230-ba51-2f97b7482b5f/raw?se=2025-05-26T10%3A53%3A19Z&sp=r&sv=2024-08-04&sr=b&scid=070e7f5c-648b-564b-855b-9e637c361465&skoid=ea1de0bc-0467-43d6-873a-9a5cf0a9f835&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-25T22%3A53%3A47Z&ske=2025-05-26T22%3A53%3A47Z&sks=b&skv=2024-08-04&sig=RT3ry6Gjp2Njr0fdtA8moJn4uOqWy3GCEeQog558JvQ%3D" alt="Banner de Rixon" />
-</p>
+
+![47d5b0b0-c48f-4a19-8620-294a182ade55](https://github.com/user-attachments/assets/5a90af84-c53f-48ce-8e52-c5791d7c2e66)
+
 
 ## 👋 ¡Hola! Soy Rixon
+
 
 🔹 **Frontend Developer & Cybersecurity Enthusiast**  
 🔹 Me apasiona el desarrollo web moderno y la seguridad informática.  
