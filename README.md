@@ -1,19 +1,17 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/08bb8362-b742-49af-8514-849e744ff6dc" alt="Banner Rixon" />
+  <img src="https://github.com/user-attachments/assets/1db8fc60-5eb8-4a34-b130-25673fe38048" alt="Banner Rixon" />
 </p>
-
-
 
 ### 👋 ¡Bienvenido! Soy Rixon  
 **Frontend Developer & Cybersecurity**
 
-🎯 Me gusta desarrollar aplicaciones web, y explorar vulnerabilidades.  
-🧠 Actualmente trabajando con React y tailwind.
+🎯 Me gusta desarrollar aplicaciones web y explorar vulnerabilidades.  
+🧠 Actualmente trabajando con React y Tailwind CSS.
 
 ---
 
-### 🚀 Ultimos Proyectos
+### 🚀 Últimos Proyectos
 
 - 🔐 [**User Enumeration Form**](https://github.com/rixon33/user-enumeration-form): Herramienta para descubrir usuarios válidos mediante fuerza bruta inteligente.
 - 🌐 [**Portfolio Personal**](https://github.com/rixon33/portfolio) *(en progreso)*
@@ -22,13 +20,16 @@
 
 ### 🧰 Stack Actual
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="30"/>
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/><br>JavaScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/><br>React</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/><br>Tailwind</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/><br>Python</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="30"/><br>Django</td>
+    <td align="center"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-cybersecurity-computer-science-flaticons-lineal-color-flat-icons.png" width="30"/><br>Cybersecurity</td>
+  </tr>
+</table>
 
 ---
 
@@ -43,5 +44,5 @@
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rixon-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rixon33)  
-📧 rixoncel@gmail.com
+- **LinkedIn**: [https://www.linkedin.com/in/rixon33](https://www.linkedin.com/in/rixon33)  
+- **Email**: rixoncel@gmail.com
