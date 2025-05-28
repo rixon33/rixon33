@@ -37,7 +37,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rixon33&theme=dark-minimalist&locale=es&short_numbers=true" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=rixon33&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
